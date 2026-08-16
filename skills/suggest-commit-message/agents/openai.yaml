@@ -1,0 +1,4 @@
+interface:
+  display_name: "Suggest Commit Message"
+  short_description: "Suggest concise Conventional Commit messages"
+  default_prompt: "Use $suggest-commit-message to suggest a concise commit message from these changes."
